@@ -3,17 +3,16 @@ SQL - Tableau Integration Projects
 Compilation of SQL - Tableau integration projects for Data Analytics, Business Intelligence and Data Visualizations.
 
 ## Database, Database Tool and Visualization Tool
-MySQL
-MySQL Workbench
-Tableau Public
+- MySQL
+- MySQL Workbench
+- Tableau Desktop
 
 
 ## Live Demo
 ![image](https://user-images.githubusercontent.com/95032838/146688331-9c5cd1d8-2e71-4706-ad29-2709b8c128bf.png)
 
-
 view Project Details on Tableau Public
-Dashboard on Tableu Public
+Dashboard on Tableu Public: https://public.tableau.com/app/profile/cedric.ray.jr/viz/IntegratingSQLandTableauforDataAnalyticsandBusinessIntelligence_16399419982460/EMPLOYEEINFORMATIONSUMMARY2
 
 ## Projects
 SQL - MySQL for Data Analytics and Business Intelligence: data analysis and data visualizations for answering business related questions for management including,
