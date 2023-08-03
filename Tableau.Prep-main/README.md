@@ -1,4 +1,12 @@
+## Data Preparation and Processing
 
+Departmental December - Finance: This project involves processing financial data for different departments in December. It includes tasks like extracting and cleaning data tables, handling measure and year values, and creating a unified dataset for analysis.
+
+Calculating Moving Average: The goal of this project is to calculate the weekly average of daily sales at the start of 2019. It focuses on identifying trends using a moving average based on seven days' sales data.
+
+Compare Monthly Targets: This project aims to compare monthly sales targets with actual performance data for employees. It involves calculating average monthly sales, filtering underperforming employees, and determining the percentage of months they met/exceeded their targets.
+
+Bookshop Data Model: The focus of this project is to build a physical data model for Tableau's Bookshop dataset. It includes tasks like data union, joining related data sets, maintaining data granularity, and removing duplicates for a clean and organized dataset.
 
 
 # 1. Departmental December - Finance
